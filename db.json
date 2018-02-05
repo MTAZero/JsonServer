@@ -10,7 +10,7 @@
   },
   "movies": [
     {
-        "Id": 1,
+        "id": 1,
         "Name": "Thor 3 - Ranarok",
         "Directors": "Taika Waititi",
         "Country": "USA",
@@ -21,7 +21,7 @@
         "ImgContent": "http://phimmoi.newsuncdn.com/post/2017/10/26/thor-ragnarok-14991616540999.jpg"
     },
     {
-        "Id": 2,
+        "id": 2,
         "Name": "Jumanji: Welcome to the Jungle (2017)",
         "Directors": "Jake Kasdan",
         "Country": "USA",
@@ -32,7 +32,7 @@
         "ImgContent": "http://image.phimmoi.net/film/6364/poster.medium.jpg"
     },
     {
-        "Id": 3,
+        "id": 3,
         "Name": "KẺ SĂN LÙNG SỢ HÃI",
         "Directors": "Victor Salva",
         "Country": "USA",
@@ -43,7 +43,7 @@
         "ImgContent": "http://image.phimmoi.net/film/6362/poster.medium.jpg"
     },
     {
-        "Id": 4,
+        "id": 4,
         "Name": "SIÊU BÃO ĐỊA CẦU",
         "Directors": "Dean Devlin",
         "Country": "USA",
@@ -54,7 +54,7 @@
         "ImgContent": "http://image.phimmoi.net/film/6362/poster.medium.jpg"
     },
     {
-        "Id": 5,
+        "id": 5,
         "Name": "TỘI PHẠM NHÂN BẢN 2049",
         "Directors": "Denis Villeneuve",
         "Country": "Canada",
