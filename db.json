@@ -10,7 +10,7 @@
   },
   "movies": [
     {
-        "id": 6,
+        "id": 1,
         "Name": "ÁN MẠNG TRÊN CHUYẾN TÀU TỐC HÀNH PHƯƠNG ĐÔNG",
         "Directors": "Kenneth Branagh",
         "Country": "Anh",
@@ -32,7 +32,7 @@
         "ImgContent": "http://image.phimmoi.net/film/6364/poster.medium.jpg"
     },
     {
-        "id": 4,
+        "id": 3,
         "Name": "SIÊU BÃO ĐỊA CẦU",
         "Directors": "Dean Devlin",
         "Country": "USA",
@@ -43,7 +43,7 @@
         "ImgContent": "http://image.phimmoi.net/film/5740/poster.medium.jpg"
     },
     {
-        "id": 3,
+        "id": 4,
         "Name": "KẺ SĂN LÙNG SỢ HÃI",
         "Directors": "Victor Salva",
         "Country": "USA",
@@ -65,7 +65,7 @@
         "ImgContent": "http://image.phimmoi.net/film/6162/poster.medium.jpg"
     },
     {
-        "id": 1,
+        "id": 6,
         "Name": "Thor 3 - Ranarok",
         "Directors": "Taika Waititi",
         "Country": "USA",
