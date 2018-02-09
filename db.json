@@ -11,7 +11,7 @@
   "movies": [
     {
         "id": 1,
-        "Name": "ÁN MẠNG TRÊN CHUYẾN TÀU TỐC HÀNH PHƯƠNG ĐÔNG",
+        "Name": "Án mạng trên con tàu Phương Đông",
         "Directors": "Kenneth Branagh",
         "Country": "Anh",
         "ReleaseYear": 2018,
@@ -33,7 +33,7 @@
     },
     {
         "id": 3,
-        "Name": "SIÊU BÃO ĐỊA CẦU",
+        "Name": "Siêu bão địa cầu",
         "Directors": "Dean Devlin",
         "Country": "USA",
         "ReleaseYear": 2016,
@@ -44,7 +44,7 @@
     },
     {
         "id": 4,
-        "Name": "KẺ SĂN LÙNG SỢ HÃI",
+        "Name": "Kẻ săn lùng sợ hãi",
         "Directors": "Victor Salva",
         "Country": "USA",
         "ReleaseYear": 2017,
@@ -55,7 +55,7 @@
     },
     {
         "id": 5,
-        "Name": "TỘI PHẠM NHÂN BẢN 2049",
+        "Name": "Tội phạm nhân bản 2049",
         "Directors": "Denis Villeneuve",
         "Country": "Canada",
         "ReleaseYear": 2016,
@@ -74,6 +74,17 @@
         "Img": "http://image.phimmoi.net/film/3243/poster.medium.jpg",
         "Content": "Ragnarok ám chỉ “tận cùng của vũ trụ”, đồng nghĩa với trận chiến sống còn của chín cõi (Nine Realms). Sau khi Loki Loki soán ngôi cha Odin, vị thần tinh quái này tiếp tục mở đường nhiễu loạn tiến từ cầu Bifrost vào trong Asgard. Ở bên kia vũ trụ, Thor (Chris Hemsworth) phải bước vào một cuộc chiến đầy khốc liệt với đối thủ mà anh sẽ gặp là một đồng đội cũ đến từ biệt đội Avenger – Hulk. Cuộc tìm kiếm sự sống còn của Thor khiến anh phải chạy đua với thời gian để ngăn chặn Hela (Cate Blanchett) tiêu diệt cả thế giới anh đang sống cùng nền văn minh Asgard.",
         "ImgContent": "http://phimmoi.newsuncdn.com/post/2017/10/26/thor-ragnarok-14991616540999.jpg"
-    }
+    },
+    {
+        "id": 7,
+        "Name": "Người đàn bà đặc biệt",
+        "Directors": "Lee An-Gyu",
+        "Country": "Hàn Quốc",
+        "ReleaseYear": 2017,
+        "Views": 302255,
+        "Img": "http://image.phimmoi.net/film/6513/poster.medium.jpg",
+        "Content": "Na Hyun Jung là thư ký trưởng của tập đoàn Jae Chul, một tập đoàn tội phạm trá hình. Cô muốn bắt đầu lại cuộc sống mới và lên kế hoạch chuẩn bị cho việc nghỉ hưu. Sang Hoon là tay chân đắc lực của chủ tịch Kim Jae Chul, một kẻ giải quyết mọi vấn đề bằng bạo lực và sẵn sàng làm mọi việc vì Hyun Jung. Để giúp ông chủ xử lý mọi “chướng ngại vật” trên con đường mở rộng sự nghiệp, Hyun Jung đã sử dụng các video tình dục để ép các nhân vật chống đối phải ngoan ngoãn nghe lời. Một trong những người bị cô gài bẫy là công tố viên Choi Dae Sik. Tuy nhiên Choi Dae Sik không bị dắt mũi như những người khác mà hắn đã lên kế hoạch trả thù Hyun Jung bằng việc lợi dụng Sang Hoon…",
+        "ImgContent": "http://image.phimmoi.net/film/6513/poster.medium.jpg"
+    },
   ]
 }
